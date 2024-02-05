@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MetarAverage": {
+      "commandName": "Project",
+      "commandLineArgs": "KIMM.dat"
+    }
+  }
+}
